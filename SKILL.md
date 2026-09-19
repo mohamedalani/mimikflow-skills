@@ -5,7 +5,7 @@ description: MimikFlow LinkedIn prospecting - set up a new account end to end th
 
 # MimikFlow setup
 
-MimikFlow runs LinkedIn B2B prospecting 24/7: it finds prospects matching an
+[MimikFlow](https://mimikflow.com) runs LinkedIn B2B prospecting 24/7: it finds prospects matching an
 ideal customer profile, sends invitations, writes a personalized first
 message, sends spaced reminders, and lets an AI answer prospects and book
 calls. This skill configures that machine through the MCP connector, for
